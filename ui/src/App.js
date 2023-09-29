@@ -2,7 +2,7 @@
 import './App.css';
 import Navbar from './home/Navbar';
 import Footer from './home/Footer';
-
+import Card from './home/Card';
 
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       
       <Navbar />
-
+      <Card />
       <Footer />
     
     </div>
